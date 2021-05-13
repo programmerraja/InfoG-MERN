@@ -1,2 +1,2 @@
-# InfoG-MERN-
-Information Gathering website 
+# InfoG
+A information Gathering tool
